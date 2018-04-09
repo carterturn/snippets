@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: latex-right-square-bracket
+# key: ]
+# --
+\right]

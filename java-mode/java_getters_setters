@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: java_getters_setters
+# key: j-gs
+# --
+public void set$1($2 $3){
+	this.$3 = $3;
+}
+
+public $2 get$1(){
+	return $3;
+}

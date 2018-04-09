@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: java_thisequals
+# key: j-te
+# --
+this.$1 = $1;
